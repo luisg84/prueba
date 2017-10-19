@@ -13,7 +13,7 @@ const obj ={
 
 
 
-console.log(obj.edad)
+console.log(obj.tw)
 
 
 /*
