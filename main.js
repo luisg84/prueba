@@ -8,7 +8,7 @@ const obj ={
   nombre: 'luis',
   edad: 20,
   emali: '84luisgilberto@gmail.com',
-  tw: '@luisg_84'
+  tw: '@mybitch'
 }
 
 
