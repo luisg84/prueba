@@ -13,7 +13,7 @@ const obj ={
 
 
 
-console.log(obj.tw)
+console.log(obj.nombre)
 
 
 /*
